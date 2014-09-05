@@ -1,0 +1,31 @@
+<?xml version="1.0" ?>
+<WebEditorProject>
+    <!---->
+    <ProjectInformation>
+        <ProjectName>Untitled</ProjectName>
+        <ProjectVersion>2.0</ProjectVersion>
+        <ServerInfo ServerID="-1"></ServerInfo>
+        <S-DriveURL></S-DriveURL>
+    </ProjectInformation>
+    <!---->
+    <ProjectTreeFirstLevel>
+        <Node Type="2" LinkName="">./css/</Node>
+        <Node Type="2" LinkName="">./fonts/</Node>
+        <Node Type="2" LinkName="">./images/</Node>
+        <Node Type="2" LinkName="">./js/</Node>
+        <Node Type="2" LinkName="">./MODIFICACIONES/</Node>
+        <Node Type="5" LinkName="">./gwd_workspace.json</Node>
+        <Node Type="5" LinkName="">./index.html</Node>
+        <Node Type="5" LinkName="">./left-sidebar.html</Node>
+        <Node Type="5" LinkName="">./LICENSE.txt</Node>
+        <Node Type="5" LinkName="">./no-sidebar.html</Node>
+        <Node Type="5" LinkName="">./README.txt</Node>
+        <Node Type="5" LinkName="">./right-sidebar.html</Node>
+    </ProjectTreeFirstLevel>
+    <!---->
+    <ShowedFiles>
+        <ShowedFileEditor1 FirstVisibleLine="359" CursorPosition="13419">./index.html</ShowedFileEditor1>
+        <ShowedFileEditor2 FirstVisibleLine="0" CursorPosition="0">./css/style.css</ShowedFileEditor2>
+    </ShowedFiles>
+    <!---->
+</WebEditorProject>
