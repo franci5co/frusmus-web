@@ -213,3 +213,6 @@ pip-log.txt
 
 #Mr Developer
 .mr.developer.cfg
+
+#Temporal de preview HTML de Coffeeshop
+*~tm*.html
