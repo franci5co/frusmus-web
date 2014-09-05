@@ -689,8 +689,7 @@
 	#header
 	{
 		position: relative;
-		/*background-image: url('../images/header.jpg');*/
-        background-image: url('../images/Captura.png');
+		background-image: url('../images/Captura.PNG');
 		background-size: cover;
 		background-position: center center;
 		background-attachment: fixed;
@@ -762,17 +761,10 @@
 		#header .button
 		{
 			display: inline-block;
-			border-radius: 10%;
+			border-radius: 100%;
 			width: 4.5em;
-			height: 4.5em;*/
-            /*width: 0px;
-            height: 0px;
-            */
-            border-bottom:25px solid;
-            border-left:20px solid transparent;
-            border-right:20px solid transparent;
-			
-            line-height: 4.5em;
+			height: 4.5em;
+			line-height: 4.5em;
 			text-align: center;
 			font-size: 1.25em;
 			padding: 0;
@@ -1202,7 +1194,7 @@
 			/*background: #8AA9BE;*/
 			text-align: center;
 			/*padding: 0 1em 3em 1em;*/
-             padding: 0 0 0 0; /* modificado para el ancho del background del embed de Soundcloud*/
+            padding: 0 0 0 0; /* modificado para el ancho del background del embed de Soundcloud*/
 			/*margin: 0 2em 0 0;*/
 			white-space: normal;
 			opacity: 1.0;
